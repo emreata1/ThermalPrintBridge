@@ -1,5 +1,5 @@
 # Thermal Print Bridge
-
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/emreata1/ThermalPrintBridge/releases/latest)
 An Android tool designed to bridge mobile apps with Bluetooth ESC/POS thermal printers.
 
 Built for field logistics, route delivery, and POS environments where quick receipt printing from mobile devices is required.
